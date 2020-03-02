@@ -222,8 +222,6 @@ We will use this <a href="{{page.collaborative_notes}}" target="_blank">collabor
 <hr/>
 {% endif %}
 
-<hr/>
-
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
