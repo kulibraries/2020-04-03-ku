@@ -14,9 +14,10 @@ instructor: ["Matt Deakyne", "Other instructors TBD"] # boxed, comma-separated l
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jamenebk@ku.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-04-03-ku         # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite: "98404316961"  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
+<h2 id="announce">Announcement</h2>
+<p>Due to COVID-19 (coronavirus) preparations at the University of Kansas and KU Libraries, this workshop has been cancelled. See KU's preparations and announcements at <a href="https://coronavirus.ku.edu/" target="_blank">coronavirus.ku.edu</a>.
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
